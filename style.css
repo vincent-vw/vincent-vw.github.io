@@ -21,6 +21,7 @@
 html{
     background-color: var(--colour_background);
     font-size: calc(15px + 0.390625vw); /* Responsive font sizes: https://matthewjamestaylor.com/responsive-font-size */
+    scroll-behavior: smooth;
 }
 h1, h2, h3, h4{
     text-align: center;
